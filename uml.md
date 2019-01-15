@@ -2,7 +2,7 @@
 
 1 - Modelitzar el problema.
 
-2 - Fer el diagrama de classes amb Eclipse Papyrus.
+2 - Fer el diagrama de classes amb Visual Paradigm.
 
 ![](imatges/1.png)
 
@@ -25,4 +25,7 @@
 #### Relació Vendedor-Sistema de Pagament
 - El venedor depent d'un dels dos sistemes de pagament per poder cobrar.
 
-3 - Fer el mateix amb Umbrello.
+3 - Fer el mateix amb Papyrus.
+
+
+![](imatges/2.png)
