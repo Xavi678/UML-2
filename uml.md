@@ -13,7 +13,7 @@
 #### Relació: Pedido-Cliente
 - un client pot realitzar una o més comandes, una comanda pot ser realitzada per un client.
 ####  Relació: Client (Cliente Personal i Cliente Corporativo)
-- Hi ha dos tipus de clients, el personal i el corporatiu
+- Hi ha dos tipus de clients, el personal (pagarà amb una targeta de crèdit) i el corporatiu (tindrà un contracte amb l'empresa)
 ####    Relació: Cliente Corporativo-Vendedor
 - Un client corporatiu pot ser atès per un venedor, i un venedor pot atendre a molts clients corporatiu
 #### Relació: Client Personal-Targeta de crèdit
