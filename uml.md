@@ -6,14 +6,13 @@
 
 ![](imatges/1.png)
 
- #### Relació: Línea Pedido-Producto
-
-- Una linea de comanda pot estar formada per un producte o més, i un producte pot formar cap o moltes línies de comandes
- #### Relació: Línea Pedido-Pedido
-- una comanda consta de una línea de comandament, i una línea de comandament pot constar en una comanda
- #### Relació: Pedido-Cliente
-- un client pot realitzar una o més comandes, una comanda pot ser realitzada per un client
-  ####  Relació: Client (Cliente Personal i Cliente Corporativo)
+#### Relació: Línea Pedido-Producto
+- Una linea de comanda pot estar formada per un producte o més, i un producte pot formar cap o moltes línies de comandes.
+#### Relació: Línea Pedido-Pedido
+- una comanda consta de una línea de comandament, i una línea de comandament pot constar en una comanda.
+#### Relació: Pedido-Cliente
+- un client pot realitzar una o més comandes, una comanda pot ser realitzada per un client.
+####  Relació: Client (Cliente Personal i Cliente Corporativo)
 - Hi ha dos tipus de clients, el personal i el corporatiu
 ####    Relació: Cliente Corporativo-Vendedor
 - Un client corporatiu pot ser atès per un venedor, i un venedor pot atendre a molts clients corporatiu
