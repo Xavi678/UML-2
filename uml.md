@@ -4,7 +4,7 @@
 
 2 - Fer el diagrama de classes amb Visual Paradigm.
 
-![](imatges/1.png)
+![](imatges/3.png)
 
 #### Relació: Línea Pedido-Producto
 - Una linea de comanda (és una relació dèbil, si desapareixés la linea de comanda, no ho faria el producte) pot estar formada per un producte o més, i un producte pot formar cap o moltes línies de comandes.
@@ -28,4 +28,4 @@
 3 - Fer el mateix amb Papyrus.
 
 
-![](imatges/2.png)
+![](imatges/4.png)
